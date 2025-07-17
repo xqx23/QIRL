@@ -1,0 +1,4 @@
+OKVQA: https://okvqa.allenai.org/
+A-OKVQA: https://github.com/allenai/aokvqa
+VQAv2: https://visualqa.org/
+COCO: https://cocodataset.org/
